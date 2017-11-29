@@ -22,7 +22,7 @@
         "php": ">=5.3.3",
         "symfony/framework-bundle": ">=2.3",
         "twig/twig": "*",
-        "tms/rest-client-bundle": "1.0.*"
+        "tms/rest-client-bundle": "dev-symfony-3.x"
     },
     "require-dev": {
       "phpunit/phpunit": "~5.7",
